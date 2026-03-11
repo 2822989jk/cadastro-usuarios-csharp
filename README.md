@@ -28,5 +28,3 @@ Criei esse projeto como forma de praticar alguns conceitos básicos da linguagem
 * manipulação de listas
 * estruturas condicionais
 * organização básica do código
-
-É um projeto simples, mas que me ajudou a entender melhor como estruturar um pequeno sistema utilizando C#
