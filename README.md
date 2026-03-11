@@ -1,30 +1,32 @@
 # Cadastro de Usuários em C#
 
-Esse é um projeto simples que fiz para praticar programação em C#.  
-A ideia foi criar um pequeno sistema de cadastro de usuários rodando no console.
+Este é um pequeno projeto que desenvolvi para praticar programação em C#.
+A ideia foi criar um sistema simples de cadastro de usuários que roda no console.
 
-## O que o sistema faz
+## Funcionalidades
 
-- Cadastrar usuários
-- Listar os usuários cadastrados
-- Buscar usuário pelo nome
-- Remover usuário pelo ID
+O sistema permite:
 
-Os dados ficam armazenados em uma lista enquanto o programa está rodando.
+* Cadastrar novos usuários
+* Listar todos os usuários cadastrados
+* Buscar um usuário pelo nome
+* Remover um usuário utilizando o ID
+
+Os dados são armazenados em memória enquanto o programa está em execução.
 
 ## Tecnologias utilizadas
 
-- C#
-- .NET
-- Aplicação de console
+* C#
+* .NET
+* Aplicação de console
 
-## Sobre o projeto
+## Objetivo do projeto
 
-Criei esse projeto para praticar lógica de programação e alguns conceitos básicos de C#, como:
+Criei esse projeto como forma de praticar alguns conceitos básicos da linguagem C#, como:
 
-- criação de classes
-- uso de listas
-- estruturas condicionais
-- organização de código
+* criação e uso de classes
+* manipulação de listas
+* estruturas condicionais
+* organização básica do código
 
-É um projeto simples, mas foi útil para entender melhor como estruturar um pequeno sistema em C#.
+É um projeto simples, mas que me ajudou a entender melhor como estruturar um pequeno sistema utilizando C#
